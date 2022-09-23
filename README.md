@@ -1,5 +1,5 @@
-# Evgeny_Portfolio
-ML portfolio2
+# Evgeny
+ML portfolio
 # [Project 1: Neural Network based algorithm to solve missile navigation problem. R&D Reinforcement learning project.](https://github.com/Yegres5/missile-solution)
 * Created a tool based on Q-learning algorithm, that trains neural network to solve air-to-air missile navigation problem.
 * Sucsessfully presented and proved efficiancy of neural networks in this type of tasks
@@ -9,4 +9,4 @@ ML portfolio2
 * Used YAPPI profiler to optimize computations of custom environment
 
 Average reward for blue - trained neural network, and 3 different methods for different reactions of environment:
-<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/9f4a3cd4b5a324bce0a9fd59ec897806e9af373f/images/Average%20score.jpg" width="726">
+<img src="/images/Average%20score.jpg" width="726">
