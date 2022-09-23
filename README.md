@@ -30,4 +30,16 @@ Graph below represent hit probability: for blue - trained neural network, and 3 
 * Small report (on russian) at the end of colab notebook:
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/ReportSkin.png?raw=true"/>
 
+# [Project 4: creepy GAN project]
+### Point of the project was to try to implement GAN architecture from scratch. [Dataset](https://drive.google.com/file/d/1KWPc4Pa7u2TWekUvNu9rTSO0U2eOlZA9/view?usp=sharing) used in project was based on [FFHQ](https://github.com/NVlabs/ffhq-dataset) (high quality image dataset of human faces)
 
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/FacesOriginal.png?raw=true" width="726"/>
+
+* Successfully implemented GAN from scratch
+
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/CreepyFaces.png?raw=true" width="726"/>
+
+* Tested quality of generated images with Leave-one-out classifier (0.531)
+* Used PCA on discriminator results to visualaze the data results
+
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/GAN_PCA.png?raw=true" width="726"/>
