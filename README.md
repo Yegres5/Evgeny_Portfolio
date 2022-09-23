@@ -9,4 +9,4 @@ ML portfolio
 * Used YAPPI profiler to optimize computations of custom environment
 
 Average reward for blue - trained neural network, and 3 different methods for different reactions of environment:
-<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/Average%20score.jpg" width="726">
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/9f4a3cd4b5a324bce0a9fd59ec897806e9af373f/images/Average%20score.jpg" width="726">
