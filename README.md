@@ -8,5 +8,5 @@ ML portfolio
 * Used OpenAI Gym framework to build [custom simulation environment](https://github.com/Yegres5/missile-env)
 * Used YAPPI profiler to optimize computations of custom environment
 
-Average reward for blue - trained neural network, and 3 different methods for different reactions of environment:
+Graph below represent hit probability: for blue - trained neural network, and 3 different methods for different reactions of environment:
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/d9953b112e3afcca187b0be296803d9ff3025aaa/images/Average%20score.jpg?raw=true" width="726"/>
