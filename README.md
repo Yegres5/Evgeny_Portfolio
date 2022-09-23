@@ -8,3 +8,9 @@ ML portfolio
 * Used OpenAI Gym framework to build [custom simulation environment](https://github.com/Yegres5/missile-env)
 * Used YAPPI profiler to optimize computations of custom environment
 
+
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/loss_log.png" width="512">
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/score.png" width="512">
+<img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/Average%20score.jpg" width="512">
+
+
