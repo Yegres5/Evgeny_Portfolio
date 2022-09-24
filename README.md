@@ -3,9 +3,9 @@
 # [Project 1: Neural Network based algorithm to solve missile navigation problem](https://github.com/Yegres5/missile-solution)
 ### R&D Reinforcement learning project
 * Created a tool based on Q-learning algorithm, that trains neural network to solve air-to-air missile navigation problem.
-* Sucsessfully presented and proved efficiancy of neural networks in this type of tasks
-* Used advanced teqniques such as Dueling Q-learning [Arxiv](https://arxiv.org/abs/1511.06581) and Double Q-learning [Neurips](https://proceedings.neurips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf)
-* Used Pytorch as Neural Network framework, AWS EC2 for cloud computation, Tensorboard to monitor neural network train progression
+* Successfully presented and proved efficiency of neural networks in this type of tasks
+* Used advanced techniques such as Dueling Q-learning [Arxiv](https://arxiv.org/abs/1511.06581) and Double Q-learning [Neurips](https://proceedings.neurips.cc/paper/2010/file/091d584fced301b442654dd8c23b3fc9-Paper.pdf)
+* Used PyTorch as Neural Network framework, AWS EC2 for cloud computation, TensorBoard to monitor neural network train progression
 * Used OpenAI Gym framework to build [custom simulation environment](https://github.com/Yegres5/missile-env)
 * Used YAPPI profiler to optimize computations of custom environment
 
@@ -17,7 +17,7 @@ Graph below represent hit probability and prove effectiveness of reinforcement l
 
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/Simpsons.png?raw=true" width="726"/>
 
-* Experimented with different neural network arcitectures: EfficientNet (b3 with final score 0.99256), VGG (VGG16 with final score 0.97768)
+* Experimented with different neural network architectures: EfficientNet (b3 with final score 0.99256), VGG (VGG16 with final score 0.97768)
 * Used NVIDIA Dali to augment the data which allowed to use GPU for preprocessing
 
 # [Project 3: Skin lesions semantic segmentation](https://colab.research.google.com/drive/1J_gzinKCsiNcgcz-zsaQQ06Y4GiUuQyF?usp=sharing)
@@ -27,7 +27,7 @@ Graph below represent hit probability and prove effectiveness of reinforcement l
 * Compared different neural network architectures such as SegNet and U-Net (tried different approached MaxPooling and transpose-convolution layers) 
 * Metric: IOU
 * Experimented with different [loss functions](https://arxiv.org/pdf/2006.14822.pdf): [BCE](https://www.tensorflow.org/api_docs/python/tf/nn/sigmoid_cross_entropy_with_logits), DICE, Focal loss, Log-Cosh Dice Loss, TverskyLoss, Focal Tversky Loss
-* Small report (on russian) at the end of colab notebook:
+* Small report (on Russian) at the end of colab notebook:
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/ReportSkin.png?raw=true"/>
 
 # [Project 4: creepy GAN project](https://colab.research.google.com/drive/1vlix0P_VYQID_6hanUOMpWRpPLqGUN-_?usp=sharing)
@@ -40,6 +40,6 @@ Graph below represent hit probability and prove effectiveness of reinforcement l
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/CreepyFaces.png?raw=true" width="726"/>
 
 * Tested quality of generated images with Leave-one-out classifier (0.531)
-* Used PCA on discriminator results to visualaze the data results
+* Used PCA on discriminator results to visualize the data results
 
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/GAN_PCA.png?raw=true" width="726"/>
