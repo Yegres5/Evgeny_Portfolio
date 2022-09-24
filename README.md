@@ -30,7 +30,7 @@ Graph below represent hit probability: for blue - trained neural network, and 3 
 * Small report (on russian) at the end of colab notebook:
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/ReportSkin.png?raw=true"/>
 
-# [Project 4: creepy GAN project]
+# [Project 4: creepy GAN project](https://colab.research.google.com/drive/1vlix0P_VYQID_6hanUOMpWRpPLqGUN-_?usp=sharing)
 ### Point of the project was to try to implement GAN architecture from scratch. [Dataset](https://drive.google.com/file/d/1KWPc4Pa7u2TWekUvNu9rTSO0U2eOlZA9/view?usp=sharing) used in project was based on [FFHQ](https://github.com/NVlabs/ffhq-dataset) (high quality image dataset of human faces)
 
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/main/images/FacesOriginal.png?raw=true" width="726"/>
