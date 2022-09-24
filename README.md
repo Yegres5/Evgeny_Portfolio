@@ -9,7 +9,7 @@
 * Used OpenAI Gym framework to build [custom simulation environment](https://github.com/Yegres5/missile-env)
 * Used YAPPI profiler to optimize computations of custom environment
 
-Graph below represent hit probability: for blue - trained neural network, and 3 different methods for different reactions of environment.
+Graph below represent hit probability and prove effectiveness of reinforcement learning approach (blue) in comparison to 3 different homing methods for different reactions of the environment.
 <img src="https://github.com/Yegres5/Evgeny_Portfolio/blob/d9953b112e3afcca187b0be296803d9ff3025aaa/images/Average%20score.jpg?raw=true" width="726"/>
 
 # [Project 2: Simpsons image classification](https://colab.research.google.com/drive/1uK5jME11mfnxepZ2WO8lLMNl9yO5pjvx?usp=sharing)
