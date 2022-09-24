@@ -1,4 +1,4 @@
-[Webpage link](https://yegres5.github.io/Evgeny_Portfolio/)
+[Webpage link](https://yegres5.github.io/Portfolio/)
 
 # [Project 1: Neural Network based algorithm to solve missile navigation problem](https://github.com/Yegres5/missile-solution)
 ### R&D Reinforcement learning project
